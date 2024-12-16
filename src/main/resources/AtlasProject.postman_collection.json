@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "8879bd90-29dc-4624-b38e-de1d1ee4739a",
+		"name": "AtlasProject",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4978399"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
